@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Nom Nom Navigator"
 include(":app")
- 
+include(":features")
